@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ManishKumarMaganlal
+- 👋 Hi, I’m @ManishKumar-Maganlal
 - 👀 I’m interested in AI, Mahince learning
 - 🌱 I’m currently learning Machine learning
 - 📫 How to reach me @m_manish77@yahoo.com
