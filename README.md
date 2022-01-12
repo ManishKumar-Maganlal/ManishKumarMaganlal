@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning :- Deep Learning
 - 🤔 I’m looking for help with :- DL & ML
 - 💬 Ask me about:- Anything ( not my personal life , duhh !! )
-- 📫 How to reach me:  ✔️[Linkedin](https://www.linkedin.com/in/manish-kumar-75a821100) ✔️[Mail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=idofmanishkumar.m2801@yahoo.com.com&su=SUBJECT&body=BODY&tf=1)
+- 📫 How to reach me:  ✔️[Linkedin](https://www.linkedin.com/in/manish-kumar-75a821100) ✔️[Mail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=manishkumar.m2801@yahoo.com&su=SUBJECT&body=BODY&tf=1)
 - ⚡ Fun fact:  Right now I'm looking at you, 'cause you're looking at me.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ManishKumar-Maganlal&label=Profile%20views&color=0e75b6&style=flat-square" alt="ManishKumar-Maganlal" /> </p>
