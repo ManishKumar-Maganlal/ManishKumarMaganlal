@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ManishKumar-Maganlal
-- 👀 I’m interested in AI, Mahince learning
-- 🌱 I’m currently learning Machine learning
+- 👀 I’m interested in Data Analyst, AI and Mahince learning
 - 📫 How to reach me @manishkumar.m2801@yahoo.com
 
 <!---
